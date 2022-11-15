@@ -2,7 +2,7 @@
 ## 1. Building image
 
 ```
-docker build ./DOCKER_HW/3.2-crud  --tag=stocks_products:0.1
+docker build ./3.2-crud  --tag=stocks_products:0.1
 ```
 
 ## 2. Running the container
